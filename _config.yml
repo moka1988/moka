@@ -2,7 +2,6 @@
 title: 北方摩卡
 SEOTitle: 北方摩卡 | BY Blog
 header-img: img/post-bg-rwd.jpg
-email: qiubaiying@gmail.com
 description: "每个胜利背后都有许多尝试"
 keyword: "博客"
 url: "https://bfmoka.github.io"          # your host, for absolute URL
@@ -12,18 +11,7 @@ baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: img/avatar-by.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
-
-
-# SNS settings
-RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
 
 
 
